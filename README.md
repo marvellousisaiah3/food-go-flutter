@@ -25,7 +25,7 @@ Target Users: Food enthusiasts, restaurant owners, and delivery service provider
 
 ## Authors
 
-- [Harsh Yadav](https://github.com/harshyadavDeveloper)
+- [Marvellous Isaiah](https://github.com/marvellousisaiah3)
 
 
 ## Badges
